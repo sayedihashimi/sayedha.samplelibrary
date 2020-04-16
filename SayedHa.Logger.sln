@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayedHa.Con", "SayedHa.Con\SayedHa.Con.csproj", "{362491A2-6E3E-4057-B4FF-7D56575E6485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayedHa.Log", "SayedHa.Logger\SayedHa.Log.csproj", "{B0791D74-5452-485B-877F-D3B01A21594D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362491A2-6E3E-4057-B4FF-7D56575E6485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362491A2-6E3E-4057-B4FF-7D56575E6485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362491A2-6E3E-4057-B4FF-7D56575E6485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362491A2-6E3E-4057-B4FF-7D56575E6485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0791D74-5452-485B-877F-D3B01A21594D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0791D74-5452-485B-877F-D3B01A21594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0791D74-5452-485B-877F-D3B01A21594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0791D74-5452-485B-877F-D3B01A21594D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
