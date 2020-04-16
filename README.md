@@ -1,0 +1,1 @@
+Sample solution showing how you can create a .NET Library and share on NuGet.org.
