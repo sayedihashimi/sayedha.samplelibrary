@@ -3,10 +3,15 @@ using SayedHa.Log;
 
 namespace SayedHa.Con {
     class Program {
-        private ILogger logger = Logger.GetNewLogger();
+        private static ILogger logger = Logger.GetNewLogger();
 
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
+            logger.Info("info here");
+            logger.Debug("debug here");
+            logger.Error("error here");
+            logger.Fatal("fatal here");
+            logger.Verbose("verbose here");
         }
     }
 }

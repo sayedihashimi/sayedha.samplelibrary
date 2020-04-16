@@ -20,7 +20,7 @@ namespace SayedHa.Log {
         public void Verbose(object message, Exception ex) { LogIt("Verbose", message, ex); }
 
         protected void LogIt(string prefix, object message, Exception ex) {
-            string formatstr = ex == null ? "{0}\t:{1}" : "{0}\t{1}\tException:{2}";
+            string formatstr = ex == null ? "{0}:\t{1}" : "{0}:\t{1}\tException:{2}";
 
             Console.WriteLine(string.Format(formatstr, prefix, message, ex));
         }
