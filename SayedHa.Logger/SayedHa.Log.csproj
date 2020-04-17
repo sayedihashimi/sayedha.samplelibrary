@@ -1,18 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   
  <PropertyGroup>
-    <!-- global tool related properties -->
-    <PackAsTool>true</PackAsTool>
+    <!-- where should the nuget package be created at -->
     <PackageOutputPath>./nupkg</PackageOutputPath>
     
     <!-- nuget related properties -->
     <Authors>Sayed Ibrahim Hashimi</Authors>
     <Description>Sample library showing how to create a .NET library.</Description>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Copyright>Copyright 2020 © Sayed Ibrahim Hashimi. All rights reserved.</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/sayedihashimi/sayedha.samplelibrary</RepositoryUrl>
