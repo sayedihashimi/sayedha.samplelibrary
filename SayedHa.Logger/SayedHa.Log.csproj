@@ -20,7 +20,7 @@
     <PackageIcon>icon-120x120.png</PackageIcon>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="icon-120x120.png" Pack="true" PackagePath="\"/>
+    <None Include="icon-120x120.png" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>

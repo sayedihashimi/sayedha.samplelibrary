@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayedHa.Log", "SayedHa.Logger\SayedHa.Log.csproj", "{B0791D74-5452-485B-877F-D3B01A21594D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayedHa.Con", "SayedHa.Con\SayedHa.Con.csproj", "{D092DCCB-2EEB-4BDC-8A7B-333C6852A9B4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +13,5 @@ Global
 		{B0791D74-5452-485B-877F-D3B01A21594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0791D74-5452-485B-877F-D3B01A21594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0791D74-5452-485B-877F-D3B01A21594D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D092DCCB-2EEB-4BDC-8A7B-333C6852A9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D092DCCB-2EEB-4BDC-8A7B-333C6852A9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D092DCCB-2EEB-4BDC-8A7B-333C6852A9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D092DCCB-2EEB-4BDC-8A7B-333C6852A9B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

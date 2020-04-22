@@ -7,6 +7,7 @@ namespace SayedHa.Con {
 
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
+
             logger.Info("info here");
             logger.Debug("debug here");
             logger.Error("error here");
