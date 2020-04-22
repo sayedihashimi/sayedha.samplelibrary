@@ -11,16 +11,16 @@
     <!-- nuget related properties -->
     <Authors>Sayed Ibrahim Hashimi</Authors>
     <Description>Sample library showing how to create a .NET library.</Description>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Copyright>Copyright 2020 © Sayed Ibrahim Hashimi. All rights reserved.</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/sayedihashimi/sayedha.samplelibrary</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageIconUrl>https://raw.githubusercontent.com/sayedihashimi/sayedha.samplelibrary/master/assets/geoffrey-120x120.png</PackageIconUrl>
-    <PackageIcon>geoffrey-120x120.png</PackageIcon>
+    <PackageIconUrl>https://raw.githubusercontent.com/sayedihashimi/sayedha.samplelibrary/master/assets/icon-120x120.png</PackageIconUrl>
+    <PackageIcon>icon-120x120.png</PackageIcon>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="geoffrey-120x120.png" Pack="true" PackagePath="\"/>
+    <None Include="icon-120x120.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
-    
+
 </Project>
